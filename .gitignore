@@ -1,0 +1,3 @@
+# Installer binaries
+*.msi
+mysql-connector-net-9.6.0.msi
